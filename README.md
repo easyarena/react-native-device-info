@@ -2,6 +2,9 @@
 
 # react-native-device-info
 
+## Fork Info
+This repo was forked to remove the getPhoneNumber Method because Google rejects apps with this methods which are collecting information on covid.
+
 [![npm version](https://badge.fury.io/js/react-native-device-info.svg)](http://badge.fury.io/js/react-native-device-info)
 [![npm total downloads](https://img.shields.io/npm/dt/react-native-device-info.svg)](https://img.shields.io/npm/dt/react-native-device-info.svg)
 [![npm monthly downloads](https://img.shields.io/npm/dm/react-native-device-info.svg)](https://img.shields.io/npm/dm/react-native-device-info.svg)
